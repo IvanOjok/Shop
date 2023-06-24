@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Shop</string>
+
+    <string name="price">Price</string>
+    <string name="price_value">UGX. 20,000</string>
+    <string name="recipe">Recipe</string>
+    <string name="ingredients">Ingredients</string>
+</resources>
